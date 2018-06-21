@@ -1,2 +1,2 @@
-# Coursera_Web_Dev
-Coursera Web Dev Repo
+# Coursera Web Repo
+Coursera repo for HTML, CSS, and Javascript for Web Developers class
