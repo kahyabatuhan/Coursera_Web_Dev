@@ -14,10 +14,6 @@
 * {
   box-sizing: border-box;
 }
-h1 {
-  margin-bottom: 15px;
-  text-align: center;
-}
 section > div {
   background-color: #f8f8f8;
   border-color: #e7e7e7;
